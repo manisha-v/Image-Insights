@@ -15,20 +15,23 @@ ImageInsights app can be accessed [here](https://image-insights.streamlit.app/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/manisha-v/SQL-LLM.git
-   cd SQL-LLM
+   git clone https://github.com/manisha-v/Image-Insights.git
+   cd Image-Insights
    ```
+   
 2. Install the dependencies
    ```bash
    pip install -r requirements.txt
    ```
+   
 3. Generate a Google Gemini API key and save it as `API_KEY` in your `secrets.toml` file.
-4. Run the "app.py" script:
+   
+5. Run the "app.py" script:
    ```bash
    streamlit run app.py
    ```
 
-5. Open your browser and visit http://localhost:8501 to explore ImageInsights.
+6. Open your browser and visit http://localhost:8501 to explore ImageInsights.
 
 ---
 

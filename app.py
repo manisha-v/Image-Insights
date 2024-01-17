@@ -41,5 +41,5 @@ st.markdown("""
 
 *Built with ❤️ by Manisha Varshney*
 
-[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/manisha-v/SQL-LLM)
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/manisha-v/Image-Insights)
 """)
